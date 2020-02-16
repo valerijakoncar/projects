@@ -1,0 +1,2 @@
+::1	valerija98 inserted product with id : 54	admin.php?page=insert	16.02.2020 17:11:24
+::1	valerija98 deleted product with id : 54	admin.php?page=delete	16.02.2020 17:13:07

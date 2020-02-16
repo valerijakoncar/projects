@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="446f86da-8b31-406b-8532-45aaeea05f14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X8J9VAoM34xnZLzEXOBs5OPwZE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHP2sajt\app\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHP2sajt" />
+      <recent name="C:\xampp\htdocs\PHP2sajt\app\views\admin" />
+      <recent name="C:\xampp\htdocs\PHP2sajt\app\Models\models" />
+      <recent name="C:\xampp\htdocs\PHP2sajt\app\views\fixed" />
+      <recent name="C:\xampp\htdocs\PHP2sajt\app\views" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="446f86da-8b31-406b-8532-45aaeea05f14" name="Default Changelist" comment="" />
+      <created>1580421636256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580421636256</updated>
+      <workItem from="1580421638557" duration="1204000" />
+      <workItem from="1580465659689" duration="70061000" />
+      <workItem from="1580934311086" duration="12579000" />
+      <workItem from="1581017936454" duration="10856000" />
+      <workItem from="1581102733093" duration="31320000" />
+      <workItem from="1581160328918" duration="33930000" />
+      <workItem from="1581238943458" duration="12207000" />
+      <workItem from="1581330140289" duration="3182000" />
+      <workItem from="1581364384819" duration="24469000" />
+      <workItem from="1581424275667" duration="27159000" />
+      <workItem from="1581539130888" duration="13433000" />
+      <workItem from="1581621744628" duration="50859000" />
+      <workItem from="1581707984524" duration="61407000" />
+      <workItem from="1581859378436" duration="11130000" />
+      <workItem from="1581880651873" duration="2006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581825104107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1581825104107" />
+    <state x="168" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581690893114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="168" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1581690893114" />
+    <state x="413" y="120" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1581870104259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="120" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581870104259" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1581707821431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581707821431" />
+    <state x="932" y="280" key="NewPhpClassDialog" timestamp="1581824999535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="932" y="280" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1581824999535" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1581721471127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1581721471127" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581880664864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581880664864" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581170383866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581170383866" />
+  </component>
+</project>
