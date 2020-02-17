@@ -491,6 +491,8 @@ class Products
 
     public function deleteProducts($id){
         try{
+            $pre = $this->db->conn->prepare("DELETE FROM wishlist WHERE product_id = ?");
+            $pre->execute([$id]);
             $prepare1 = $this->db->conn->prepare("SELECT img_id FROM products WHERE id = ?");
             $prepare1->execute([$id]);
             //var_dump($a);
